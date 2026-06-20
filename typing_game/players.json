@@ -1,0 +1,38 @@
+{
+  "Hendrix": {
+    "age": 8,
+    "current_level": 1,
+    "preferred_theme": "cream",
+    "notes": "Start gently with short words and track colour performance."
+  },
+  "Winnie": {
+    "age": 7,
+    "current_level": 1,
+    "preferred_theme": "pink",
+    "notes": "Start with short words and keep sessions fun."
+  },
+  "Miley": {
+    "age": 9,
+    "current_level": 1,
+    "preferred_theme": "blue",
+    "notes": "Start with short words, then move up if accuracy and speed are good."
+  },
+  "Tommy": {
+    "age": 6,
+    "current_level": 1,
+    "preferred_theme": "cream",
+    "notes": "Keep sessions short and encouraging."
+  },
+  "Crue": {
+    "age": 6,
+    "current_level": 1,
+    "preferred_theme": "yellow",
+    "notes": "Keep sessions short and encouraging."
+  },
+  "Guest": {
+    "age": 7,
+    "current_level": 1,
+    "preferred_theme": "cream",
+    "notes": "Default guest player."
+  }
+}
