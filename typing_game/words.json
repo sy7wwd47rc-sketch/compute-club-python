@@ -1,0 +1,20 @@
+{
+  "levels": {
+    "1": [
+      "cat", "dog", "sun", "pen", "map", "red", "top", "sit",
+      "hat", "bat", "mat", "cup", "run", "fun", "mum", "dad"
+    ],
+    "2": [
+      "ship", "shop", "fish", "frog", "tree", "blue", "green", "black",
+      "star", "moon", "book", "hand", "jump", "milk", "duck", "ball"
+    ],
+    "3": [
+      "rabbit", "garden", "school", "yellow", "purple", "window",
+      "friend", "little", "happy", "family", "planet", "rocket"
+    ],
+    "4": [
+      "because", "where", "there", "their", "people", "through",
+      "thought", "another", "something", "beautiful", "different"
+    ]
+  }
+}
